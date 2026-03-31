@@ -1,4 +1,5 @@
 // app/product/[id]/page.js
+import Navbar from "@/components/Navbar";
 import Link from "next/link";
 
 async function getProductDetail(id) {
@@ -21,6 +22,7 @@ export default async function ProductDetailPage({ params }) {
 
   return (
     <div className="min-h-screen bg-gray-50 px-4 py-8 md:px-8 lg:px-16">
+      <Navbar/>
       <div className="mx-auto max-w-7xl">
         <Link
           href="/"
