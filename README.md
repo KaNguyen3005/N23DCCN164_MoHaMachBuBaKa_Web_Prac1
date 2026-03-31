@@ -1,3 +1,14 @@
+## Student: Mô Ha Mách Bu Ba Ka
+
+MSV: N23DCCN164
+
+Lab 1 has been fully completed with all required functionalities, including:
+
+Creating two pages: a product list page and a product detail page
+Implementing responsive design for different devices
+
+Note: The code uses an external API that was not provided in the lab, as the original API server in the lab has crashed and is no longer available.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
